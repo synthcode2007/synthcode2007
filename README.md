@@ -1,43 +1,57 @@
-# 🛡️ Alex Hamilton | [ETHICAL HACKER]
+<div align="center">
 
-Hey, I’m **Alex**. Software developer by trade, ethical hacker by choice, and synthwave enthusiast by nature 🎵🌌. I build with **logic, rhythm, and iteration**, fueled by late-night focus and clean loops.
+```
+░░▒▒▓▓  ALEX HAMILTON  ▓▓▒▒░░
+```
 
-I live in the terminal 🐧💻. For me, development is about **function over flash**—using minimal, keyboard-driven tools that stay out of the way so I can focus on the craft.
+**software developer · ethical hacker · synthwave kid**
 
----
-
-## 🛠 Tech & Arsenal
-* **Languages:** Python, Kotlin, Java
-* **Workflow:** Linux-first, keyboard-driven, security-hardened
-* **Editors:** Neovim (for speed), IntelliJ (for scale)
-* **Custom Tools:** Scripts and automations for pentesting and dev-flow optimization
+</div>
 
 ---
 
-## ⚙️ The Methodology
-* **Keyboard-First:** Every action is optimized for speed and flow.
-* **Minimalist Infrastructure:** Tools should serve the code, not the other way around.
-* **The Iterative Loop:** Build, test, exploit, patch, and refine until it’s seamless.
-* **Structured Intent:** Clear, readable, and highly maintainable codebases.
-* **Deep Work:** Late-night sessions, zero distractions, high productivity.
+hey. i'm alex — i build things, break things, and try to leave systems cleaner than i found them.
+
+my setup is linux, neovim, and a playlist that hasn't changed in three years. i work keyboard-first,
+avoid GUIs unless forced, and have strong opinions about folder structure.
+
+if you're here for security research, pentesting tooling, or just to poke at something i built —
+welcome.
 
 ---
 
-## 🎮 Off the Clock
-* **🏗️ Satisfactory:** I bring the same obsession with efficiency and "tight loops" to my factories as I do to my code. Total optimization or nothing.
-* **☢️ Fallout:** Love the retro-futuristic aesthetic and the grit of the wasteland—it heavily influences my cyber-inspired project vibes.
-* **🎵 Synthwave:** The essential fuel for my flow state. If I’m coding, the neon beats are on.
-* **👾 Easter Eggs:** Hidden gaming references and "secret" files are tucked into my branch names and repos.
-* **💬 Let’s Connect:** Find me on **Discord** at `SynthCode#2007`
+◆ **stack**
+
+```
+languages   →   python   kotlin   java
+editors     →   neovim (daily driver)   intellij (when the codebase demands it)
+workflow    →   linux-first   keyboard-native   security-hardened
+tooling     →   custom scripts   pentesting automation   dev-flow hacks
+```
 
 ---
 
-## ✨ Personal Touches
-* **💡 Cyber-Aesthetic:** Naming conventions and UI themes inspired by the neon-glow of the digital frontier.
-* **🎵 Ambient Focus:** Curated playlists that match the rhythm of the terminal.
-* **🐧 Ethical Hacking:** Always down to geek out over security research or bug bounty hunting.
+◆ **how i work**
+
+no GUI if i can help it. every tool gets configured, trimmed, or replaced with something i wrote.
+the loop is: build → test → break → patch → repeat — until it holds under pressure.
+
+i'm not chasing speed for the sake of it. i want systems that *stay fast* and don't fall apart
+at 2am when something actually matters.
 
 ---
 
-> "Efficiency is the goal; the code is the journey."
-> 
+◆ **off the clock**
+
+```
+▸  satisfactory   →   i optimize factories the same way i optimize code. obsessively.
+▸  fallout        →   retro-futuristic grit bleeds into everything i name and build.
+▸  synthwave      →   always on. non-negotiable.
+▸  easter eggs    →   branch names, repo folders — they're in there somewhere.
+```
+
+discord: `SynthCode#2007`
+
+---
+
+> *efficiency is the goal. the code is the journey.*
